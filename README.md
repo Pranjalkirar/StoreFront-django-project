@@ -1,21 +1,21 @@
-# StoreFront 🛍️
+# StoreFront 
 
 **StoreFront** is a simple and clean e-commerce web application built using Django. It allows users to register, log in, browse products, add them to a shopping cart, and manage quantities — all within a responsive Bootstrap-powered interface.
 
 ---
 
-## 🔧 Features
+##  Features
 
-- ✅ User registration, login, and logout using Django’s authentication system  
-- ✅ Product listing with name, price, and image  
-- ✅ "Add to Cart" functionality with session-based storage  
-- ✅ View cart with product quantity, subtotal, and total amount  
-- ✅ Remove items or update quantities in the cart  
-- ✅ Responsive UI using Bootstrap 4  
+-  User registration, login, and logout using Django’s authentication system  
+-  Product listing with name, price, and image  
+-  "Add to Cart" functionality with session-based storage  
+-  View cart with product quantity, subtotal, and total amount  
+-  Remove items or update quantities in the cart  
+- Responsive UI using Bootstrap 4  
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
@@ -43,7 +43,7 @@ storefront/
 
 ---
 
-## 💡 How It Works
+## How It Works
 
 1. Users register or log in to access the platform.  
 2. Products are displayed using Bootstrap cards.  
@@ -53,7 +53,7 @@ storefront/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -98,7 +98,7 @@ storefront/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Backend:** Django 5.2+
 * **Frontend:** HTML, CSS, Bootstrap 4
@@ -106,7 +106,7 @@ storefront/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pranjal Kirar**
 B.Tech, Biosciences and Bioengineering, IIT Guwahati
@@ -114,7 +114,7 @@ GitHub: [github.com/Pranjalkirar](https://github.com/Pranjalkirar)
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * This is a beginner-friendly e-commerce app.
 * Does not include checkout or payment integration to keep things simple.
@@ -122,6 +122,6 @@ GitHub: [github.com/Pranjalkirar](https://github.com/Pranjalkirar)
 
 ---
 
-## 📜 License
+## License
 
 MIT License – free to use, modify, and distribute.
